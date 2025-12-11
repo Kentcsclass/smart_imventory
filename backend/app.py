@@ -5,9 +5,6 @@ from flask_cors import CORS
 from mongita import MongitaClientDisk
 from werkzeug.security import generate_password_hash, check_password_hash
 
-# -----------------------------
-# Setup
-# -----------------------------
 app = Flask(__name__)
 
 # CORS: allow React dev (localhost:5173) to call this API
