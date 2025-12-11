@@ -322,7 +322,7 @@ Note: Stock is decreased at the time you add items to the invoice, via `/api/ite
 
 ---
 
-## Project Structure (Example)
+## Project Structure
 
 ```text
 project-root/
